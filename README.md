@@ -62,12 +62,6 @@ Tugas ini bertujuan untuk:
 - **Perkalian**: Masukkan angka 6 dan 7, tekan tombol “x” untuk mendapatkan hasil 42.
 - **Pembagian**: Masukkan angka 8 dan 2, tekan tombol “÷” untuk mendapatkan hasil 4.
 
-## Screenshots
-
-Berikut adalah tampilan antarmuka aplikasi kalkulator:
-
-![Screenshot Calculator](link-to-screenshot.png)
-
 ## Kontribusi
 
 Kami sangat menghargai setiap kontribusi dalam pengembangan aplikasi ini! Jika Anda memiliki ide atau perbaikan, silakan kirimkan **pull request** atau buka **issue** di repositori ini.
